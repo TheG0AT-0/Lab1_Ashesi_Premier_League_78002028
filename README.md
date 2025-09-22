@@ -1,1 +1,3 @@
-# Lab-1---Ashesi-Premier-League
+# Ivan Addo Nii Armah
+# 78002028
+# Lab 1
